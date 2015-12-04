@@ -1,0 +1,19 @@
+{
+  "name": "foom",
+  "version": "0.0.1",
+  "description": "boom error service",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "boom",
+    "hapi"
+  ],
+  "author": "Christian Blaschke <mail@platdesign.de>",
+  "license": "MIT",
+  "repository": "https://github.com/platdesign/foom.git",
+  "dependencies": {
+    "boom": "^3.0.0"
+  }
+}
